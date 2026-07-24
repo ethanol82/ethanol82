@@ -2,7 +2,7 @@
 
 # Hi, I'm Ethan Shin 👋
 
-**CS student @SKKU · developer & AI researcher**
+**CS student @SKKU**
 
 `Lazy enough to code my way out of doing things twice.`
 
