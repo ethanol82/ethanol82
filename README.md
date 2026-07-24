@@ -17,6 +17,7 @@
 
 ![AppKit](https://img.shields.io/badge/AppKit-4B5563?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma Plugin API](https://img.shields.io/badge/Figma%20Plugin%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kakao API](https://img.shields.io/badge/Kakao%20API-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
