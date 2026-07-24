@@ -27,10 +27,10 @@ CS student @SKKU, developer & AI researcher
 
 ## 🔗 Connect 🔗
 
-[![GitHub](https://img.shields.io/badge/-GitHub-4B5563?style=flat-square&logo=github&logoColor=white)](https://github.com/yourid)
+[![GitHub](https://img.shields.io/badge/-GitHub-4B5563?style=flat-square&logo=github&logoColor=white)](https://github.com/ethanol82)
 [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yourid)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourid)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/w_oo_chan0944)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shinuzan0832@gmail.com)
 
 <br/>
 
