@@ -29,9 +29,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-4B5563?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanol82)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@macncheeeese/posts)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinuzan0832@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ethanol82&color=4B5563&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
