@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ethan Shin 👋
+# Hi, I'm WooChan Shin 👋
 
 **CS student @SKKU**
 
